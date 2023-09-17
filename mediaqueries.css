@@ -10,6 +10,7 @@
   #projects {
     height: fit-content;
   }
+  
 }
 
 @media screen and (max-width: 1200px) {
@@ -101,3 +102,4 @@
     text-align: justify;
   }
 }
+

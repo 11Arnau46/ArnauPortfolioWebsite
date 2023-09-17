@@ -318,6 +318,7 @@ section {
 
 #experience {
   position: relative;
+  margin-bottom: 15rem;
 }
 
 .experience-sub-title {
@@ -430,3 +431,4 @@ footer {
 footer p {
   text-align: center;
 }
+
